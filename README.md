@@ -1,26 +1,39 @@
 # Data Engineering Interview Prep
 
-A structured daily practice log — 3 questions per session covering Theoretical, Coding/Problem, Real-time Scenario, System Design, and Behavioral topics.
+Structured notes for Data Engineering interview preparation. Each file is named after the interview question.
 
 ## Structure
+
 ```
 de-interview-prep/
-├── day-01/
-│   └── notes.md        # ETL vs ELT · SQL Window Functions · Streaming Architecture
-├── day-02/
-│   └── notes.md
-└── ...
+├── theoretical/          # Concepts, architecture, design decisions
+├── sql-problems/         # SQL queries, window functions, optimization
+├── pyspark-problems/     # PySpark transformations, RDD, DataFrame API
+├── real-life-scenarios/  # End-to-end pipeline design, trade-offs
+├── system-design/        # Large-scale system design questions
+└── behavioral/           # Situational and behavioral questions
 ```
 
-## Topics Covered
-| Day | Topics |
-|-----|--------|
-| Day 01 | ETL vs ELT, SQL Window Functions, Real-time Streaming Architecture |
+## Questions Covered
 
-## Stack Depth
-- **Languages:** SQL, Python, PySpark
-- **Processing:** Apache Spark, Apache Flink, Kafka
-- **Cloud:** AWS (S3, Glue, Redshift), GCP (BigQuery, Dataflow), Azure
-- **Orchestration:** Apache Airflow
-- **Warehouses:** Snowflake, BigQuery, Redshift
-- **Tools:** dbt, Delta Lake, Apache Iceberg
+### Theoretical
+| Question | File |
+|---|---|
+| ETL vs ELT — difference and when to choose | [etl-vs-elt.md](theoretical/etl-vs-elt.md) |
+
+### SQL Problems
+| Question | File |
+|---|---|
+| Find each user's 2nd most recent transaction and running total spend | [2nd-most-recent-transaction-and-running-total.md](sql-problems/2nd-most-recent-transaction-and-running-total.md) |
+
+### PySpark Problems
+*Coming soon*
+
+### Real-life Scenarios
+*Coming soon*
+
+### System Design
+*Coming soon*
+
+### Behavioral
+*Coming soon*
