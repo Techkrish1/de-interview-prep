@@ -32,7 +32,9 @@ de-interview-prep/
 | Find top 3 products by revenue for each category | [top-3-products-by-revenue-per-category.md](pyspark-problems/top-3-products-by-revenue-per-category.md) |
 
 ### Real-life Scenarios
-*Coming soon*
+| Question | File |
+|---|---|
+| Sync a 500M-row MySQL table to warehouse incrementally | [incremental-load-vs-cdc-500-million-row-mysql-to-warehouse.md](real-life-scenarios/incremental-load-vs-cdc-500-million-row-mysql-to-warehouse.md) |
 
 ### System Design
 *Coming soon*
