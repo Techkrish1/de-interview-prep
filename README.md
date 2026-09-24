@@ -27,7 +27,9 @@ de-interview-prep/
 | Find each user's 2nd most recent transaction and running total spend | [2nd-most-recent-transaction-and-running-total.md](sql-problems/2nd-most-recent-transaction-and-running-total.md) |
 
 ### PySpark Problems
-*Coming soon*
+| Question | File |
+|---|---|
+| Find top 3 products by revenue for each category | [top-3-products-by-revenue-per-category.md](pyspark-problems/top-3-products-by-revenue-per-category.md) |
 
 ### Real-life Scenarios
 *Coming soon*
