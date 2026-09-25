@@ -42,4 +42,6 @@ de-interview-prep/
 | Design a daily ETL pipeline using Airflow with failure handling and alerts | [daily-etl-pipeline-design-using-airflow.md](system-design/daily-etl-pipeline-design-using-airflow.md) |
 
 ### Behavioral
-*Coming soon*
+| Question | File |
+|---|---|
+| Tell me about a time a data pipeline failed in production | [tell-me-about-a-time-a-data-pipeline-failed-in-production.md](behavioral/tell-me-about-a-time-a-data-pipeline-failed-in-production.md) |
