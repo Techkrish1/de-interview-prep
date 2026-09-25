@@ -31,6 +31,7 @@ de-interview-prep/
 | Question | File |
 |---|---|
 | Find top 3 products by revenue for each category | [top-3-products-by-revenue-per-category.md](pyspark-problems/top-3-products-by-revenue-per-category.md) |
+| Broadcast join and handling data skew | [broadcast-join-and-handling-data-skew.md](pyspark-problems/broadcast-join-and-handling-data-skew.md) |
 
 ### Real-life Scenarios
 | Question | File |
