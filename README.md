@@ -25,6 +25,7 @@ de-interview-prep/
 | Question | File |
 |---|---|
 | Find each user's 2nd most recent transaction and running total spend | [2nd-most-recent-transaction-and-running-total.md](sql-problems/2nd-most-recent-transaction-and-running-total.md) |
+| Calculate month-over-month revenue growth by category | [month-over-month-revenue-growth-by-category.md](sql-problems/month-over-month-revenue-growth-by-category.md) |
 
 ### PySpark Problems
 | Question | File |
