@@ -37,7 +37,9 @@ de-interview-prep/
 | Sync a 500M-row MySQL table to warehouse incrementally | [incremental-load-vs-cdc-500-million-row-mysql-to-warehouse.md](real-life-scenarios/incremental-load-vs-cdc-500-million-row-mysql-to-warehouse.md) |
 
 ### System Design
-*Coming soon*
+| Question | File |
+|---|---|
+| Design a daily ETL pipeline using Airflow with failure handling and alerts | [daily-etl-pipeline-design-using-airflow.md](system-design/daily-etl-pipeline-design-using-airflow.md) |
 
 ### Behavioral
 *Coming soon*
