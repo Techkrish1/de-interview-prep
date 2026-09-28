@@ -1,0 +1,42 @@
+name: Publish Scheduled Questions
+
+on:
+  schedule:
+    - cron: '0 * * * *'    # runs every hour at :00 UTC
+  workflow_dispatch:         # manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Publish due questions
+        run: python .github/scripts/publish_questions.py
+
+      - name: Commit and push if questions were published
+        run: |
+          git config user.name "Gokulakrishnan Venkatesan"
+          git config user.email "gvenkatesan@internal.salesforce.com"
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "Daily release: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "Questions published."
+          else
+            echo "Nothing due yet."
+          fi
