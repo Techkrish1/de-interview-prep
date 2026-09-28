@@ -20,6 +20,7 @@ de-interview-prep/
 | Question | File |
 |---|---|
 | ETL vs ELT — difference and when to choose | [etl-vs-elt.md](theoretical/etl-vs-elt.md) |
+| What is the difference between Star Schema and Snowflake Schema? | [star-schema-vs-snowflake-schema.md](theoretical/star-schema-vs-snowflake-schema.md) |
 
 ### SQL Problems
 | Question | File |
