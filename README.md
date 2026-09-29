@@ -41,6 +41,7 @@ de-interview-prep/
 | Question | File |
 |---|---|
 | Sync a 500M-row MySQL table to warehouse incrementally | [incremental-load-vs-cdc-500-million-row-mysql-to-warehouse.md](real-life-scenarios/incremental-load-vs-cdc-500-million-row-mysql-to-warehouse.md) |
+| Data quality checks in a production data pipeline | [data-quality-checks-in-a-production-data-pipeline.md](real-life-scenarios/data-quality-checks-in-a-production-data-pipeline.md) |
 
 ### System Design
 | Question | File |
