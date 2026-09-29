@@ -22,12 +22,14 @@ de-interview-prep/
 | ETL vs ELT — difference and when to choose | [etl-vs-elt.md](theoretical/etl-vs-elt.md) |
 | What is the difference between Star Schema and Snowflake Schema? | [star-schema-vs-snowflake-schema.md](theoretical/star-schema-vs-snowflake-schema.md) |
 | Kafka architecture — topics, partitions, consumer groups, offsets, delivery guarantees | [kafka-architecture-topics-partitions-consumer-groups-offsets.md](theoretical/kafka-architecture-topics-partitions-consumer-groups-offsets.md) |
+| What are ACID properties and how does Delta Lake implement them? | [acid-properties-and-delta-lake.md](theoretical/acid-properties-and-delta-lake.md) |
 
 ### SQL Problems
 | Question | File |
 |---|---|
 | Find each user's 2nd most recent transaction and running total spend | [2nd-most-recent-transaction-and-running-total.md](sql-problems/2nd-most-recent-transaction-and-running-total.md) |
 | Calculate month-over-month revenue growth by category | [month-over-month-revenue-growth-by-category.md](sql-problems/month-over-month-revenue-growth-by-category.md) |
+| Deduplicate a table and keep only the latest record per user | [deduplicate-keep-latest-record-per-user.md](sql-problems/deduplicate-keep-latest-record-per-user.md) |
 
 ### PySpark Problems
 | Question | File |
