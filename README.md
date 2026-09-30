@@ -25,6 +25,7 @@ de-interview-prep/
 | What are ACID properties and how does Delta Lake implement them? | [acid-properties-and-delta-lake.md](theoretical/acid-properties-and-delta-lake.md) |
 | What is the difference between a Data Lake, Data Warehouse, and Lakehouse? | [data-lake-vs-data-warehouse-vs-lakehouse.md](theoretical/data-lake-vs-data-warehouse-vs-lakehouse.md) |
 | Spark execution model — DAG, stages, tasks, and shuffle | [spark-execution-model-dag-stages-tasks-shuffle.md](theoretical/spark-execution-model-dag-stages-tasks-shuffle.md) |
+| Partitioning strategies — hash, range, and list | [partitioning-strategies-hash-range-list.md](theoretical/partitioning-strategies-hash-range-list.md) |
 
 ### SQL Problems
 | Question | File |
