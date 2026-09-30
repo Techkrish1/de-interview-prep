@@ -34,6 +34,7 @@ de-interview-prep/
 | Calculate month-over-month revenue growth by category | [month-over-month-revenue-growth-by-category.md](sql-problems/month-over-month-revenue-growth-by-category.md) |
 | Deduplicate a table and keep only the latest record per user | [deduplicate-keep-latest-record-per-user.md](sql-problems/deduplicate-keep-latest-record-per-user.md) |
 | Find users who logged in on at least 3 consecutive days | [find-users-with-consecutive-login-days.md](sql-problems/find-users-with-consecutive-login-days.md) |
+| Find the median salary for each department | [find-median-salary-per-department.md](sql-problems/find-median-salary-per-department.md) |
 
 ### PySpark Problems
 | Question | File |
