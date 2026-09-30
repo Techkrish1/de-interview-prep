@@ -24,6 +24,7 @@ de-interview-prep/
 | Kafka architecture — topics, partitions, consumer groups, offsets, delivery guarantees | [kafka-architecture-topics-partitions-consumer-groups-offsets.md](theoretical/kafka-architecture-topics-partitions-consumer-groups-offsets.md) |
 | What are ACID properties and how does Delta Lake implement them? | [acid-properties-and-delta-lake.md](theoretical/acid-properties-and-delta-lake.md) |
 | What is the difference between a Data Lake, Data Warehouse, and Lakehouse? | [data-lake-vs-data-warehouse-vs-lakehouse.md](theoretical/data-lake-vs-data-warehouse-vs-lakehouse.md) |
+| Spark execution model — DAG, stages, tasks, and shuffle | [spark-execution-model-dag-stages-tasks-shuffle.md](theoretical/spark-execution-model-dag-stages-tasks-shuffle.md) |
 
 ### SQL Problems
 | Question | File |
