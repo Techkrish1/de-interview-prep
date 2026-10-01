@@ -54,6 +54,7 @@ de-interview-prep/
 | Question | File |
 |---|---|
 | Design a daily ETL pipeline using Airflow with failure handling and alerts | [daily-etl-pipeline-design-using-airflow.md](system-design/daily-etl-pipeline-design-using-airflow.md) |
+| Design a real-time fraud detection pipeline for a payment system | [real-time-fraud-detection-pipeline.md](system-design/real-time-fraud-detection-pipeline.md) |
 
 ### Behavioral
 | Question | File |
