@@ -42,6 +42,7 @@ de-interview-prep/
 | Find top 3 products by revenue for each category | [top-3-products-by-revenue-per-category.md](pyspark-problems/top-3-products-by-revenue-per-category.md) |
 | Broadcast join and handling data skew | [broadcast-join-and-handling-data-skew.md](pyspark-problems/broadcast-join-and-handling-data-skew.md) |
 | Read and write Parquet efficiently with partition pruning in PySpark | [read-write-parquet-with-partition-pruning.md](pyspark-problems/read-write-parquet-with-partition-pruning.md) |
+| PySpark UDFs — when to use and why to avoid them | [pyspark-udfs-when-to-use-and-alternatives.md](pyspark-problems/pyspark-udfs-when-to-use-and-alternatives.md) |
 
 ### Real-life Scenarios
 | Question | File |
