@@ -60,3 +60,4 @@ de-interview-prep/
 | Question | File |
 |---|---|
 | Tell me about a time a data pipeline failed in production | [tell-me-about-a-time-a-data-pipeline-failed-in-production.md](behavioral/tell-me-about-a-time-a-data-pipeline-failed-in-production.md) |
+| Tell me about a time you had to learn a new technology quickly | [tell-me-about-a-time-you-learned-new-technology-quickly.md](behavioral/tell-me-about-a-time-you-learned-new-technology-quickly.md) |
