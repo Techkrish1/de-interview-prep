@@ -26,6 +26,7 @@ de-interview-prep/
 | What is the difference between a Data Lake, Data Warehouse, and Lakehouse? | [data-lake-vs-data-warehouse-vs-lakehouse.md](theoretical/data-lake-vs-data-warehouse-vs-lakehouse.md) |
 | Spark execution model — DAG, stages, tasks, and shuffle | [spark-execution-model-dag-stages-tasks-shuffle.md](theoretical/spark-execution-model-dag-stages-tasks-shuffle.md) |
 | Partitioning strategies — hash, range, and list | [partitioning-strategies-hash-range-list.md](theoretical/partitioning-strategies-hash-range-list.md) |
+| Data file formats — Parquet vs ORC vs Avro vs JSON | [parquet-vs-orc-vs-avro-vs-json-file-formats.md](theoretical/parquet-vs-orc-vs-avro-vs-json-file-formats.md) |
 
 ### SQL Problems
 | Question | File |
