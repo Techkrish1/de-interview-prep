@@ -27,6 +27,7 @@ de-interview-prep/
 | Spark execution model — DAG, stages, tasks, and shuffle | [spark-execution-model-dag-stages-tasks-shuffle.md](theoretical/spark-execution-model-dag-stages-tasks-shuffle.md) |
 | Partitioning strategies — hash, range, and list | [partitioning-strategies-hash-range-list.md](theoretical/partitioning-strategies-hash-range-list.md) |
 | Data file formats — Parquet vs ORC vs Avro vs JSON | [parquet-vs-orc-vs-avro-vs-json-file-formats.md](theoretical/parquet-vs-orc-vs-avro-vs-json-file-formats.md) |
+| What is dbt and how does it fit in the modern data stack? | [what-is-dbt-and-how-does-it-fit-the-modern-data-stack.md](theoretical/what-is-dbt-and-how-does-it-fit-the-modern-data-stack.md) |
 
 ### SQL Problems
 | Question | File |
@@ -36,6 +37,7 @@ de-interview-prep/
 | Deduplicate a table and keep only the latest record per user | [deduplicate-keep-latest-record-per-user.md](sql-problems/deduplicate-keep-latest-record-per-user.md) |
 | Find users who logged in on at least 3 consecutive days | [find-users-with-consecutive-login-days.md](sql-problems/find-users-with-consecutive-login-days.md) |
 | Find the median salary for each department | [find-median-salary-per-department.md](sql-problems/find-median-salary-per-department.md) |
+| Use a recursive CTE to find all employees in a manager's hierarchy | [recursive-cte-employee-hierarchy.md](sql-problems/recursive-cte-employee-hierarchy.md) |
 
 ### PySpark Problems
 | Question | File |
