@@ -46,6 +46,7 @@ de-interview-prep/
 | Broadcast join and handling data skew | [broadcast-join-and-handling-data-skew.md](pyspark-problems/broadcast-join-and-handling-data-skew.md) |
 | Read and write Parquet efficiently with partition pruning in PySpark | [read-write-parquet-with-partition-pruning.md](pyspark-problems/read-write-parquet-with-partition-pruning.md) |
 | PySpark UDFs — when to use and why to avoid them | [pyspark-udfs-when-to-use-and-alternatives.md](pyspark-problems/pyspark-udfs-when-to-use-and-alternatives.md) |
+| Spark Structured Streaming — Kafka, watermarks, and output modes | [spark-structured-streaming-kafka-watermark-output-modes.md](pyspark-problems/spark-structured-streaming-kafka-watermark-output-modes.md) |
 | PySpark caching — when to use cache vs persist and storage levels | [pyspark-caching-persist-vs-cache-storage-levels.md](pyspark-problems/pyspark-caching-persist-vs-cache-storage-levels.md) |
 
 ### Real-life Scenarios
