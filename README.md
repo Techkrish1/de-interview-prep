@@ -46,6 +46,7 @@ de-interview-prep/
 | Broadcast join and handling data skew | [broadcast-join-and-handling-data-skew.md](pyspark-problems/broadcast-join-and-handling-data-skew.md) |
 | Read and write Parquet efficiently with partition pruning in PySpark | [read-write-parquet-with-partition-pruning.md](pyspark-problems/read-write-parquet-with-partition-pruning.md) |
 | PySpark UDFs — when to use and why to avoid them | [pyspark-udfs-when-to-use-and-alternatives.md](pyspark-problems/pyspark-udfs-when-to-use-and-alternatives.md) |
+| PySpark caching — when to use cache vs persist and storage levels | [pyspark-caching-persist-vs-cache-storage-levels.md](pyspark-problems/pyspark-caching-persist-vs-cache-storage-levels.md) |
 
 ### Real-life Scenarios
 | Question | File |
@@ -60,9 +61,11 @@ de-interview-prep/
 |---|---|
 | Design a daily ETL pipeline using Airflow with failure handling and alerts | [daily-etl-pipeline-design-using-airflow.md](system-design/daily-etl-pipeline-design-using-airflow.md) |
 | Design a real-time fraud detection pipeline for a payment system | [real-time-fraud-detection-pipeline.md](system-design/real-time-fraud-detection-pipeline.md) |
+| Lambda vs Kappa architecture — when to use each | [lambda-vs-kappa-architecture.md](system-design/lambda-vs-kappa-architecture.md) |
 
 ### Behavioral
 | Question | File |
 |---|---|
 | Tell me about a time a data pipeline failed in production | [tell-me-about-a-time-a-data-pipeline-failed-in-production.md](behavioral/tell-me-about-a-time-a-data-pipeline-failed-in-production.md) |
 | Tell me about a time you had to learn a new technology quickly | [tell-me-about-a-time-you-learned-new-technology-quickly.md](behavioral/tell-me-about-a-time-you-learned-new-technology-quickly.md) |
+| Tell me about a time you disagreed with a technical decision | [tell-me-about-a-time-you-disagreed-with-a-technical-decision.md](behavioral/tell-me-about-a-time-you-disagreed-with-a-technical-decision.md) |
