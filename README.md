@@ -28,6 +28,7 @@ de-interview-prep/
 | Partitioning strategies — hash, range, and list | [partitioning-strategies-hash-range-list.md](theoretical/partitioning-strategies-hash-range-list.md) |
 | Data file formats — Parquet vs ORC vs Avro vs JSON | [parquet-vs-orc-vs-avro-vs-json-file-formats.md](theoretical/parquet-vs-orc-vs-avro-vs-json-file-formats.md) |
 | What is dbt and how does it fit in the modern data stack? | [what-is-dbt-and-how-does-it-fit-the-modern-data-stack.md](theoretical/what-is-dbt-and-how-does-it-fit-the-modern-data-stack.md) |
+| CAP theorem — consistency, availability, and partition tolerance in distributed systems | [cap-theorem-consistency-availability-partition-tolerance.md](theoretical/cap-theorem-consistency-availability-partition-tolerance.md) |
 
 ### SQL Problems
 | Question | File |
