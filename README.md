@@ -40,6 +40,7 @@ de-interview-prep/
 | Find the median salary for each department | [find-median-salary-per-department.md](sql-problems/find-median-salary-per-department.md) |
 | Use a recursive CTE to find all employees in a manager's hierarchy | [recursive-cte-employee-hierarchy.md](sql-problems/recursive-cte-employee-hierarchy.md) |
 | Rank customers into percentiles using PERCENT_RANK, NTILE, and CUME_DIST | [percent-rank-ntile-cume-dist-window-functions.md](sql-problems/percent-rank-ntile-cume-dist-window-functions.md) |
+| Self-join patterns — find employee-manager pairs and users who referred each other | [self-join-employee-manager-and-pairs.md](sql-problems/self-join-employee-manager-and-pairs.md) |
 
 ### PySpark Problems
 | Question | File |
