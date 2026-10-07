@@ -58,6 +58,7 @@ de-interview-prep/
 | Data quality checks in a production data pipeline | [data-quality-checks-in-a-production-data-pipeline.md](real-life-scenarios/data-quality-checks-in-a-production-data-pipeline.md) |
 | Implement SCD Type 2 to track historical changes in a customer dimension | [scd-type-2-implementation.md](real-life-scenarios/scd-type-2-implementation.md) |
 | How do you handle late-arriving data in a streaming pipeline? | [handling-late-arriving-data-in-streaming-pipeline.md](real-life-scenarios/handling-late-arriving-data-in-streaming-pipeline.md) |
+| How do you handle schema evolution in a production data pipeline? | [handling-schema-evolution-in-production-pipelines.md](real-life-scenarios/handling-schema-evolution-in-production-pipelines.md) |
 
 ### System Design
 | Question | File |
