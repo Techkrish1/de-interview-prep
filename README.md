@@ -29,6 +29,7 @@ de-interview-prep/
 | Data file formats — Parquet vs ORC vs Avro vs JSON | [parquet-vs-orc-vs-avro-vs-json-file-formats.md](theoretical/parquet-vs-orc-vs-avro-vs-json-file-formats.md) |
 | What is dbt and how does it fit in the modern data stack? | [what-is-dbt-and-how-does-it-fit-the-modern-data-stack.md](theoretical/what-is-dbt-and-how-does-it-fit-the-modern-data-stack.md) |
 | CAP theorem — consistency, availability, and partition tolerance in distributed systems | [cap-theorem-consistency-availability-partition-tolerance.md](theoretical/cap-theorem-consistency-availability-partition-tolerance.md) |
+| Normalization vs denormalization — 1NF, 2NF, 3NF and when to denormalize | [normalization-vs-denormalization-1nf-2nf-3nf.md](theoretical/normalization-vs-denormalization-1nf-2nf-3nf.md) |
 
 ### SQL Problems
 | Question | File |
