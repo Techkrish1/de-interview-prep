@@ -76,3 +76,4 @@ de-interview-prep/
 | Tell me about a time a data pipeline failed in production | [tell-me-about-a-time-a-data-pipeline-failed-in-production.md](behavioral/tell-me-about-a-time-a-data-pipeline-failed-in-production.md) |
 | Tell me about a time you had to learn a new technology quickly | [tell-me-about-a-time-you-learned-new-technology-quickly.md](behavioral/tell-me-about-a-time-you-learned-new-technology-quickly.md) |
 | Tell me about a time you disagreed with a technical decision | [tell-me-about-a-time-you-disagreed-with-a-technical-decision.md](behavioral/tell-me-about-a-time-you-disagreed-with-a-technical-decision.md) |
+| Tell me about your most impactful data engineering project | [tell-me-about-your-most-impactful-project.md](behavioral/tell-me-about-your-most-impactful-project.md) |
