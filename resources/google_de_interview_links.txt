@@ -1,0 +1,96 @@
+Google Data Engineer Interview Resources (2023-2026)
+======================================================
+
+## Primary Interview Experience Articles
+
+1. iGotAnOffer – Google Data Engineer Interview Guide (most comprehensive, updated 2024)
+   https://igotanoffer.com/blogs/tech/google-data-engineer-interview
+
+2. LeetCode Discuss – Google Data Engineer Interview Experiences (filter by "Data Engineer")
+   https://leetcode.com/discuss/interview-experience/?currentPage=1&orderBy=newest&query=Google+Data+Engineer
+
+3. Glassdoor – Google Data Engineer Interview Questions & Experiences
+   https://www.glassdoor.com/Interview/Google-Data-Engineer-Interview-Questions-EI_IE9079.0,6_KO7,20.htm
+
+4. Levels.fyi – Google Data Engineer Compensation & Interview Insights
+   https://www.levels.fyi/companies/google/salaries/data-engineer
+
+5. Blind (Teamblind) – Google Data Engineer Interview Threads
+   https://www.teamblind.com/search/google%20data%20engineer%20interview
+
+## SQL Practice (Google-tagged)
+
+6. StratasScratch – Google SQL Interview Questions
+   https://platform.stratascratch.com/coding?code_type=2&company=Google
+
+7. DataLemur – Google SQL Interview Questions
+   https://datalemur.com/questions?company=Google
+
+8. LeetCode – Google-tagged SQL Problems
+   https://leetcode.com/problemset/database/?search=&difficulty=&tags=&status=&listId=&page=1&company=Google
+
+## DSA/Coding Practice (Google-tagged)
+
+9. LeetCode – Google Company Tag (Coding)
+   https://leetcode.com/company/google/
+
+10. NeetCode – Google Interview Prep Roadmap
+    https://neetcode.io/roadmap
+
+## System & Data Design
+
+11. Designing Data-Intensive Applications (Kleppmann) – Free Summary/Notes
+    https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md
+
+12. System Design Primer – Data Pipeline Design Patterns
+    https://github.com/donnemartin/system-design-primer
+
+13. Google Cloud Architecture Center – Reference Architectures
+    https://cloud.google.com/architecture
+
+## Behavioral Prep
+
+14. Google Careers – Interview Tips (Official)
+    https://careers.google.com/how-we-hire/interview/
+
+15. Big Interview – Googleyness Behavioral Prep
+    https://biginterview.com/google-interview-questions/
+
+## YouTube Interview Walkthroughs (2023-2025)
+
+16. Search: "Google Data Engineer Interview 2024" on YouTube
+    https://www.youtube.com/results?search_query=Google+Data+Engineer+Interview+2024
+
+17. Search: "Google Data Engineer Interview 2025" on YouTube
+    https://www.youtube.com/results?search_query=Google+Data+Engineer+Interview+2025
+
+## Community Discussions (Recent 2023-2026)
+
+18. Reddit r/dataengineering – Google DE Interview Thread
+    https://www.reddit.com/r/dataengineering/search/?q=google+interview&sort=new
+
+19. Reddit r/cscareerquestions – Google DE Interview
+    https://www.reddit.com/r/cscareerquestions/search/?q=google+data+engineer+interview&sort=new
+
+20. Quora – Google Data Engineer Interview Experience
+    https://www.quora.com/search?q=google+data+engineer+interview+experience
+
+## GCP-Specific Prep (Essential for Google DE)
+
+21. Google BigQuery Documentation
+    https://cloud.google.com/bigquery/docs
+
+22. Google Dataflow Documentation
+    https://cloud.google.com/dataflow/docs
+
+23. Google Pub/Sub Documentation
+    https://cloud.google.com/pubsub/docs
+
+24. GCP Professional Data Engineer Exam Guide (overlaps heavily with DE interview topics)
+    https://cloud.google.com/learn/certification/data-engineer
+
+## Notes
+- Filter LeetCode discuss by "Google" company tag and sort by "Newest" for 2023-2026 experiences
+- Blind requires an account; search "Google DE interview" filtered to Engineering
+- Glassdoor filter: Past 12 months, Data Engineer, Google
+- Levels.fyi interview section has real candidate reports with round-by-round breakdowns
